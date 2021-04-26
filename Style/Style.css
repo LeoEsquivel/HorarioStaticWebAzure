@@ -5,10 +5,14 @@
 #thead th{
     background-color: #1F1AB2;
     color: #FFFFFF;
-
+    text-align: center;
 }
 
 #fade{
     opacity: 0;
     color: #000000;
+}
+
+.horalibre {
+    font-size: 3vw; 
 }
