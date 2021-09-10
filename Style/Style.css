@@ -1,18 +1,18 @@
 #tabla table.table-bordered > tbody > tr > td{
-    border:1px solid black;
+    border:1px solid black !important; 
 }
 
 #thead th{
-    background-color: #1F1AB2;
-    color: #FFFFFF;
-    text-align: center;
+    background-color: #1F1AB2 !important;
+    color: #FFFFFF !important;
+    text-align: center !important;
 }
 
 #fade{
-    opacity: 0;
-    color: #000000;
+    opacity: 0 !important;
+    color: #000000 !important;
 }
 
 .horalibre {
-    font-size: 3vw; 
+    font-size: 3vw !important; 
 }
